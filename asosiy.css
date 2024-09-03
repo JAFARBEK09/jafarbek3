@@ -1,0 +1,81 @@
+.bosh{
+   display: flex;
+   list-style: none;
+   gap: 40px;
+   height: 90px;
+   width: 100%;
+   font-size: 20px;
+   margin: 0px 5%;
+}
+button{
+    border: 2px solid blue;
+    color: blue;
+    margin: 10px;
+    width: 60px;
+    height: 40px;
+    background-color: white;
+    border-radius: 10px;
+}
+.rasm1{
+    margin: 10px;
+}
+.button1{
+    border: 2px solid rgb(17, 255, 0);
+    color: rgb(0, 255, 0);
+    margin: 10px;
+    width: 120px;
+    height: 40px;
+    background-color: white;
+}
+h3{
+    border: 1px solid blue;
+    background-color: blue;
+    color: white;
+    margin: 15px;
+}
+.orta{
+   display: flex;
+   background-color: blue;
+   color: white;
+   gap: 200px;
+   height: 85px;
+}
+.orta1{
+border: 1px solid black;
+    width: 62.5%;
+    height: 500px;
+    background-color: white;
+    margin-left: 50%;
+margin-left: 100px ;
+}
+.tizim{
+    color: white;
+    background-color: rgb(0, 255, 0);
+}
+#ohiri{
+   border: 1px solid black;
+   width: 950px;
+   height: 100px;
+   margin-top: -102px;
+   margin-left: 100px ;
+   background-color: rgb(194, 193, 193);
+   justify-content: center;
+   justify-items: center;
+}
+.pepsi-1{
+    margin-left: 100px ;
+}
+.ohiri-1{
+    margin-left: 50px;
+    margin-top: 35px;
+    font-size: 25px;
+}
+.fa-question{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 50%; 
+  margin-left: 10px;
+}
+option{
+    color: blue;
+}
